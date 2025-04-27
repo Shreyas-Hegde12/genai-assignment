@@ -12,8 +12,11 @@ tts = TTS("tts_models/multilingual/multi-dataset/xtts_v2")
 # Predefined characters
 CHARACTERS = {
     "Trump": "characters-voices/trump.wav",
-    "Obama": "characters-voices/obama.wav",
-    "Modi": "characters-voices/modi.wav",
+    "Iron Man": "characters-voices/ironman.wav",
+    "Eminem": "characters-voices/eminem.wav",
+    "Sponge Bob": "characters-voices/spongebob.wav",
+    "Ariana Grande": "characters-voices/ariana.wav",
+    "Darth Vader": "characters-voices/darthvader.wav",
 }
 
 # Initialize pygame for audio playback
